@@ -1,0 +1,5 @@
+{
+  "name": "Skill-Driven Agent System",
+  "description": "A project management app with a skill-driven agent execution system using SQLite and Gemini.",
+  "requestFramePermissions": []
+}
